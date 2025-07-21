@@ -2,6 +2,14 @@
 
 A powerful Telegram bot that uses AI (ResNet50 neural network) to classify and analyze images sent by users.
 
+## 📸 Demo
+
+![Bot Demo](images/image.png)
+*AI classifying a photo with confidence scores*
+
+<!-- ![Bot Setup](images/bot-startup.png)
+*Bot successfully starting with TensorFlow loaded* -->
+
 ## 🚀 Quick Start Guide
 
 ### Step 1: Get a Telegram Bot Token
